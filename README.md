@@ -29,7 +29,8 @@ a crash once and after that we want to avoid the paths leading to the
 crash).
 
 Eggetest is the brainchild of Esa Kettunen of Egge Collective, an
-inofficial, unregistered collection of individual.
+inofficial, unregistered collection of individuals, currently
+comprising of one (1) individual.
 
 Contact esa.kettunen[at]gmx.com for more information.
 
